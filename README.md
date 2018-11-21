@@ -10,6 +10,7 @@ https://www.kaggle.com/c/expedia-personalized-sort<br>
 3.特徴量作成
 
 4.「Kmeans++」でクラスタリングし、エルボー分析、シルエット分析で特徴量を加減
+<img src="images/01.png">
 
 5.「決定木」「ランダムフォレスト」で、クラスタリングに使用した特徴量と重要度を確認
 
